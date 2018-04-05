@@ -1,12 +1,12 @@
 import 'core-js/fn/object/assign';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Header from './components/header'
+import SiteHeader from './components/header'
 
 class App extends React.Component {
   render() {
     return (
-    <Header />
+    <SiteHeader />
     );
   }
 }

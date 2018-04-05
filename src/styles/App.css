@@ -1,1 +1,19 @@
+.post_header{
+	  font-size: 14px;
+    font-family: "微软雅黑";
 
+    line-height: 1.5;
+  }
+
+.title{
+    	display:inline;
+    	float:left;
+		  margin-left:20%;
+      background-color: orange;
+}
+
+.logo{
+			display:inline;
+      color:#108ee9;
+      font-size:20px;
+}
